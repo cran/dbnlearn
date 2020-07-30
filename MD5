@@ -1,0 +1,12 @@
+f5dacd7866d2af71436f10610a268367 *DESCRIPTION
+e8d4c310670415cc143ba71b79de5466 *LICENSE
+d8f59a230940171fd2bd4efe54add151 *NAMESPACE
+891080e838e0a9bb629197e377501c9b *R/dbnlearn.R
+6bcc5aeafba701cae7c20f4dec0226f2 *man/dbn.fit.Rd
+7116c314f9c638eb4e254f1922bad6e1 *man/dbn.learn.Rd
+c7df9dc3b2bb7382d889e174c9fe92a4 *man/dbn.predict.Rd
+3d7c1b10a8271d7770b0cb82f58114eb *man/dbn.preprocessing.Rd
+b8009014da519d0278cc11db1ee092b6 *man/dbnlearn-package.Rd
+397e62d22b9e799da907aba6911c4ac7 *tests/airPassengers.R
+de2c46b3cb695d9ececa442922c0923c *tests/fibonacci.R
+5950b4f82f1f9a29868974130ac6ea7b *tests/johnsonJohnson.R
